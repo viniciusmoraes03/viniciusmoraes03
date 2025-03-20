@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Olá! Eu sou Vinícius
 
-<!--
-**viniciusmoraes03/viniciusmoraes03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sempre gostei de programação e hoje estou em transição de carreira da área de usinagem para a tecnologia. Aqui você vai encontrar projetos que estou desenvolvendo.
 
-Here are some ideas to get you started:
+Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Ciência da Computação  
+
+💻 Explorando o desenvolvimento Front-end
+
+📚 Aprendendo lógica de programação  
+
+
+
